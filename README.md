@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error involving loose equality (==) and null values.  The `bug.js` file shows code vulnerable to type coercion issues. The `bugSolution.js` file presents a corrected version which explicitly handles null values, preventing unexpected behavior.
